@@ -1,0 +1,54 @@
+body {
+  /*filter: blur(5px);*/
+}
+
+audio {
+  /*background-color: transparent;*/
+}
+
+audio::-webkit-media-controls-panel {
+  /*background-color: transparent;*/
+}
+
+audio > * {
+  background-color: transparent!important;
+  border-radius: 500px;
+}
+
+.box:hover {
+  transform: scale(1.1)!important;
+}
+
+.box {
+  transition: ease all 1s!important;
+}
+
+.row.people {
+  /*margin-left: 150px;*/
+}
+
+.box {
+  transition: ease 1s all;
+}
+
+.box:hover {
+  transform: scale(1.1);
+}
+
+.fa-discord {
+  /*margin-bottom: 00px!important;*/
+  margin-right: 70px!important;
+}
+
+.fa-youtube {
+  margin-left: 70px!important;
+}
+
+.fab:hover {
+  color: white!important;
+}
+
+.fab {
+  transition: 1s ease all;
+}
+
